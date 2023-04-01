@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255902934633",
+    "project_id": "whatsapp-f3130",
+    "storage_bucket": "whatsapp-f3130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255902934633:android:dbbc01ca33e70f28c624f8",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255902934633-4768268negk2s3nonve6ju8pck36an4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlCwrL1VrSjSnWCGkarHmIPJ9xECx15VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255902934633-4768268negk2s3nonve6ju8pck36an4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
